@@ -2,7 +2,7 @@
 /* 
 * To add this options page, create a page called Site Settings 
 * and a custom field called Site Settings.
-* It will be available from the admin sidebar but won't showing 
+* It will be available from the admin sidebar but won't show 
 * in the pages list.
 * Also change post id on line 62 in get_post()
 */
